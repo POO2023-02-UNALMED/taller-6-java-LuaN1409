@@ -2,6 +2,7 @@ package vehiculos;
 import java.util.ArrayList;
 
 public class Pais {
+	
 	String nombre;
 	int vehiculosVendidos = 0;
 	protected int VecesPais;
